@@ -1,4 +1,4 @@
 pydot==1.4.1
-numpy==1.17.2
+numpy==1.22.0
 tensorflow==1.14.0
 Keras==2.3.1
